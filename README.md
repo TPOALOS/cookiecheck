@@ -83,3 +83,7 @@ python3 -m unittest -v
 ```
 
 Synthetic data only. MIT licence.
+
+---
+
+**More tools by [TPOALOS](https://github.com/TPOALOS):** [mailauth-lint](https://github.com/TPOALOS/mailauth-lint) · [dmarc-report](https://github.com/TPOALOS/dmarc-report) · [nginxcheck](https://github.com/TPOALOS/nginxcheck) · [all 51 tools](https://tpoalos.github.io)
